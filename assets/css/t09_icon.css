@@ -1,0 +1,83 @@
+.icon {
+    background-image: url(../img/favicons/t09_icon/t09_icon.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.icon-header-logo {
+    width: 50px;
+    height: 50px;
+    background-position: -5px -5px;
+}
+
+.icon-header-search {
+    width: 50px;
+    height: 50px;
+    background-position: -65px -5px;
+}
+
+.icon-header-user {
+    width: 50px;
+    height: 50px;
+    background-position: -125px -5px;
+}
+
+.icon-change-gray {
+    width: 50px;
+    height: 50px;
+    background-position: -5px -65px;
+}
+
+.icon-date-gray {
+    width: 50px;
+    height: 50px;
+    background-position: -65px -65px;
+}
+
+.icon-doc-gray {
+    width: 50px;
+    height: 50px;
+    background-position: -125px -65px;
+}
+
+.icon-folder-gray {
+    width: 50px;
+    height: 50px;
+    background-position: -5px -125px;
+}
+
+.icon-info-gray {
+    width: 50px;
+    height: 50px;
+    background-position: -65px -125px;
+}
+
+.icon-report {
+    width: 50px;
+    height: 50px;
+    background-position: -125px -125px;
+}
+
+.icon-report-gray {
+    width: 50px;
+    height: 50px;
+    background-position: -185px -5px;
+}
+
+.icon-report-lighter {
+    width: 50px;
+    height: 50px;
+    background-position: -185px -65px;
+}
+
+.icon-share-gray {
+    width: 50px;
+    height: 50px;
+    background-position: -185px -125px;
+}
+
+.sprite-icon-star-gray {
+    width: 50px;
+    height: 50px;
+    background-position: -5px -185px;
+}

@@ -1,0 +1,73 @@
+/*
+ *
+ */
+body{
+    font-family: 'Microsoft YaHei', arial, sans-serif, 宋体;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+}
+
+.text-muted{
+    color:#aaaaaa;
+}
+.text-info{
+
+}
+.text-danger{
+
+}
+.text-warning{
+
+}
+.text-success{
+
+}
+
+.h1{
+
+}
+.h2{
+
+}
+.h3{
+
+}
+.h4{
+
+}
+.h5{
+
+}
+.h6{
+
+}
+
+.font-s12{
+
+}
+.font-s13{
+
+}
+.font-s14{
+
+}
+
+.font-w100{
+
+}
+.font-w200{
+
+}
+
+.text-center{
+    margin: 0;
+    width: auto;
+}
+.text-left{
+
+}
+.text-right{
+
+}

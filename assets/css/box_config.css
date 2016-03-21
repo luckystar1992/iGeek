@@ -1,0 +1,214 @@
+/*
+ * box config: common config
+ * (margin + border + padding)
+ *
+ * we use this stylesheet to locate an element and edit their properties
+ * examples:
+ */
+.block{
+    padding:15px;
+    margin:15px 0px 15px 0px;
+    width:auto;
+    height:auto;
+    zoom: 1;
+}
+.block:after{
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.remove-padding{
+    padding:0px;
+}
+.remove-margin{
+    margin:0px;
+}
+span{
+    padding-left:10px;
+    padding-right:10px;
+}
+.push-5-b{
+    margin-bottom: 5px;
+}
+.push-10-b{
+    margin-bottom: 10px;
+}
+.push-15-b{
+    margin-bottom: 15px;
+}
+.push-20-b{
+    margin-bottom: 20px;
+}
+.push-50-b{
+    margin-bottom: 50px;
+}
+
+.push-5-t{
+    margin-top: 5px;
+}
+.push-10-t{
+    margin-top: 10px;
+}
+.push-15-t{
+    margin-top: 15px;
+}
+.push-20-t{
+    margin-top: 20px;
+}
+.push-25-t{
+    margin-top: 25px;
+}
+.push-30-t{
+    margin-top: 30px;
+}
+
+.push-50-t{
+    margin-top: 50px;
+}
+
+.push-5-l{
+    margin-left: 5px;
+}
+.push-10-l{
+    margin-left: 10px;
+}
+.push-15-l{
+    margin-left: 15px;
+}
+.push-20-l{
+    margin-left: 20px;
+}
+.push-50-l{
+    margin-left: 50px;
+}
+
+.push-5-r{
+    margin-right: 5px;
+}
+.push-10-r{
+    margin-right: 10px;
+}
+.push-15-r{
+    margin-right: 15px;
+}
+.push-20-r{
+    margin-right: 20px;
+}
+.push-50-r{
+    margin-right: 50px;
+}
+
+.border{
+    border:1px solid red;
+}
+.border-info{
+
+}
+.border-success{
+
+}
+.border-warning{
+
+}
+.border-danger{
+
+}
+
+.pull-right{
+    float: right;
+}
+.pull-left{
+    float: left;
+}
+
+/* button config */
+.btn{
+    padding:3px 10px 3px 10px;
+    color:#ffffff;
+    border-radius: 3px;
+}
+.btn:hover{
+    color:#ffffee;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn-info{
+    background-color: #2189bf;
+}
+.btn-info:hover{
+    background-color: #259bef;
+}
+.btn-successs{
+
+}
+.btn-warning{
+
+}
+.btn-danger{
+
+}
+
+.pane-shadow{
+
+}
+
+/* grid system */
+
+.col-lg-1{
+    float: left;
+    width: 8.33%;
+}
+
+.col-lg-2{
+    float: left;
+    width: 16.66%;
+}
+.col-lg-3{
+    float: left;
+    width: 25%;
+}
+.col-lg-4{
+    float: left;
+    width: 33.33%;
+}
+.col-lg-5{
+    float: left;
+    width: 41.66%;
+}
+.col-lg-6{
+    float: left;
+    width: 50%;
+}
+
+.col-lg-7{
+    float: left;
+    width: 58.33%;
+}
+
+.col-lg-8{
+    float: left;
+    width: 66.66%;
+}
+
+.col-lg-9{
+    float: left;
+    width: 75%;
+}
+
+.col-lg-10{
+    float: left;
+    width: 83.33%;
+}
+
+.col-lg-11{
+    float: left;
+    width: 91.66%;
+}
+
+.col-lg-12{
+    float: left;
+    width: 100%;
+}
+

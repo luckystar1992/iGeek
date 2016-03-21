@@ -1,0 +1,30 @@
+/*
+ */
+.bg-white{
+    background-color: #ffffff;
+}
+.bg-info{
+    background-color: #2189bf;
+}
+.bg-success{
+    background-color: #43b29e;
+}
+.bg-warning{
+    background-color: #e2cd46;
+}
+.bg-danger{
+    background-color: #d04a36;
+}
+.bg-black{
+    background-color: #383d4e;
+}
+.bg-gray{
+    background-color: #999;
+}
+.bg-gray-lighter{
+    background-color: #eeeeed;
+}
+
+.bg-title{
+    background-color: #e6e6e8;
+}
